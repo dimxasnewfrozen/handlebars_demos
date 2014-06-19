@@ -1,4 +1,4 @@
-Demos using the handlebars.js demo
+Demos using the handlebars.js
 ================
 
 Simple demos using the handlebars.js template engine
